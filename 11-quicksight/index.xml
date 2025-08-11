@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QuickSight — Create Dashboard on Deploy Hugo Website with AWS CI/CD Tools</title>
-    <link>//localhost:1313/11-quicksight/</link>
+    <link>http://localhost:1313/WS-PhamNgDo.github.io/11-quicksight/</link>
     <description>Recent content in QuickSight — Create Dashboard on Deploy Hugo Website with AWS CI/CD Tools</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/11-quicksight/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/WS-PhamNgDo.github.io/11-quicksight/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
