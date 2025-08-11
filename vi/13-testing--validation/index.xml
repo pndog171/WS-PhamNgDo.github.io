@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing &amp; Validation on Triển khai Hugo Website với bộ công cụ CICD của AWS</title>
+    <link>//localhost:1313/vi/13-testing--validation/</link>
+    <description>Recent content in Testing &amp; Validation on Triển khai Hugo Website với bộ công cụ CICD của AWS</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/vi/13-testing--validation/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
